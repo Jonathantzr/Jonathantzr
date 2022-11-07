@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonathantzr
 - 👀 I’m interested in coding and designing products
-- 🌱 I’m currently learning CP50 by Harvard
+- 🌱 I’m currently learning to code with 42KL
 - 💞️ I’m looking to collaborate on anything new
 - 📫 How to reach me: Email me via jonathantzr@gmail.com
 
